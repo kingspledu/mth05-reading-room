@@ -1,0 +1,28 @@
+<!doctype html><html lang=ko><meta charset=utf-8><meta name=viewport content=width=device-width,initial-scale=1><title>5권 장별 이미지 일관성</title><style>body{max-width:1000px;margin:24px auto;padding:20px;background:#faf6ed;color:#263e30;font:17px/1.8 system-ui}img{width:100%;height:auto}pre{white-space:pre-wrap}</style><a href=characters.html>캐릭터 시트로 돌아가기</a><h1>1·2장 이미지 일관성 계획</h1><pre># 1·2장 이미지 일관성 계획
+
+생성 전 확인: public/characters.html, character-bible.json, children/Peanut/ninjas 실제 시트, 검수된 grid-0017 원본을 읽고 확인했다.
+
+## Chapter 1 마지막 배치 scene-0033~0037
+- 기존 나무집과 같은 판자 바닥·벽·사각 창·책 더미·따뜻한 일몰 조명 유지.
+- Jack: 빨강 후드(내림), 둥근 안경·갈색 머리·청바지·운동화·배낭. Annie: 보라 후드(내림)·금발 단발·청반바지·빨간 운동화. 모두 마른 옷.
+- Peanut은 바닥에 있으며 아직 주머니에 들어가지 않는다.
+- 종이를 발견 → 질문 → 집기 → 읽고 놀람 → Morgan의 위험을 알리는 순서. Morgan은 직접 등장하지 않는다.
+- 4×4의 처음 5칸만 본문에 사용하며 나머지 칸은 빈 패딩으로 둔다. 패딩은 이미지 수에 포함하지 않는다.
+
+## Chapter 2 scene-0038~0064 (16+11컷)
+- 시작 장소와 옷은 1장과 동일. 마지막 이동 전까지 현대 Frog Creek 나무집 내부.
+- 닌자 2명·흰 꽃 나무·산과 급류는 처음에는 책 속 그림에만 존재한다. 아이들 옆 실물 닌자나 Morgan을 그리지 않는다.
+- 책 속 닌자는 실제 닌자 시트의 키 차이·검은 복장·가린 얼굴·등의 칼을 참조한다. 마스터는 이 장에 등장하지 않는다.
+- 종이는 잘린 문장의 뜻을 바꾸는 임의 완성 문구를 쓰지 않는다. 읽기 본문에 정확한 원문이 있으므로 종이 삽화 글자는 비가독 필기로 처리한다.
+- 열린 책: Jack이 들고 창 근처에서 읽음 → Annie가 가져가 손에 듦 → 그림을 가리켜 소원.
+- Peanut은 scene-0060에서 Annie가 집어 앞주머니에 넣는다. 이전에는 바닥, 이후에는 주머니에 한 마리만.
+- 이동은 바람·흔들리는 나뭇잎·회전하는 나무집으로 표현하며 아이들 얼굴·옷은 바뀌지 않는다. 옷 젖음·후드 올림은 아직 금지.
+- 끝의 물소리는 정지한 나무집 내부에서 열린 창 너머 급류로 표현한다. 아이들은 아직 눈을 감은 상태로 두고 닌자 대면은 다음 장으로 미룬다.
+
+## 매 배치 검수
+- 동일한 캐릭터 시트와 기존 나무집 이미지를 참조로 전달한다.
+- 자연 해상도를 기록하며 보간 확대를 원본 고해상도로 보고하지 않는다.
+- 실제 수평 경계와 행별 수직 경계를 검출하고 오버레이 및 모든 크롭의 컨택트시트를 직접 확인한다.
+- 옆 컷 침범·흰 여백 잔류·인물 추가·중복 팔·소품 이동을 확인한다. 분할 오류는 원본에서 재크롭, 서사 오류는 해당 컷만 수정한다.
+- 각 배치 검수 후 공개하고 이전 Pages 배포 SHA 성공을 확인한 뒤 다음 배치를 공개한다.
+</pre><h2>인물과 소품</h2><img src=assets/mth05-children-sheet-v1.png><img src=assets/mth05-peanut-sheet-v1.png><img src=assets/mth05-ninjas-sheet-v1.png></html>
