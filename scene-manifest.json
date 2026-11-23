@@ -18,7 +18,8 @@
       2,
       379,
       251
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0002",
@@ -38,7 +39,8 @@
       2,
       762,
       251
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0003",
@@ -58,7 +60,8 @@
       2,
       1146,
       251
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0004",
@@ -79,7 +82,8 @@
       2,
       1533,
       251
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0005",
@@ -100,7 +104,8 @@
       262,
       379,
       506
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0006",
@@ -120,7 +125,8 @@
       262,
       762,
       506
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0007",
@@ -140,7 +146,8 @@
       262,
       1146,
       506
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0008",
@@ -160,7 +167,8 @@
       262,
       1533,
       506
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0009",
@@ -180,7 +188,8 @@
       517,
       379,
       761
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0010",
@@ -201,7 +210,8 @@
       517,
       762,
       761
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0011",
@@ -221,7 +231,8 @@
       517,
       1146,
       761
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0012",
@@ -241,7 +252,8 @@
       517,
       1533,
       761
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0013",
@@ -261,7 +273,8 @@
       772,
       379,
       1020
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0014",
@@ -281,7 +294,8 @@
       772,
       762,
       1022
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0015",
@@ -302,7 +316,8 @@
       772,
       1146,
       1021
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0016",
@@ -323,7 +338,8 @@
       772,
       1532,
       1020
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0017",
@@ -343,7 +359,8 @@
       2,
       380,
       251
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0018",
@@ -364,7 +381,8 @@
       2,
       763,
       251
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0019",
@@ -384,7 +402,8 @@
       2,
       1148,
       251
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0020",
@@ -405,7 +424,8 @@
       2,
       1532,
       251
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0021",
@@ -426,7 +446,8 @@
       260,
       380,
       506
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0022",
@@ -446,7 +467,8 @@
       260,
       763,
       506
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0023",
@@ -467,7 +489,8 @@
       260,
       1148,
       506
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0024",
@@ -488,7 +511,8 @@
       260,
       1533,
       506
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0025",
@@ -509,7 +533,8 @@
       516,
       379,
       761
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0026",
@@ -530,7 +555,8 @@
       516,
       763,
       761
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0027",
@@ -551,7 +577,8 @@
       516,
       1147,
       761
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0028",
@@ -571,7 +598,8 @@
       516,
       1532,
       761
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0029",
@@ -591,7 +619,8 @@
       772,
       379,
       1020
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0030",
@@ -612,7 +641,8 @@
       772,
       763,
       1020
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0031",
@@ -633,7 +663,8 @@
       772,
       1148,
       1021
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0032",
@@ -653,7 +684,8 @@
       772,
       1532,
       1020
-    ]
+    ],
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0033",
@@ -671,7 +703,9 @@
       5,
       382,
       289
-    ]
+    ],
+    "description": "Jack asks about the paper on the floor.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0034",
@@ -689,7 +723,9 @@
       5,
       765,
       289
-    ]
+    ],
+    "description": "Annie asks what Jack has noticed.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0035",
@@ -707,7 +743,9 @@
       5,
       1147,
       289
-    ]
+    ],
+    "description": "Jack picks up the written paper.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0036",
@@ -726,7 +764,9 @@
       5,
       1530,
       289
-    ]
+    ],
+    "description": "Jack reads the note with concern.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0037",
@@ -744,7 +784,9 @@
       295,
       382,
       543
-    ]
+    ],
+    "description": "Jack tells Annie that Morgan needs help.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0038",
@@ -763,7 +805,9 @@
       4,
       379,
       251
-    ]
+    ],
+    "description": "Jack shows Morgan’s unfinished note to Annie.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0039",
@@ -781,7 +825,9 @@
       2,
       763,
       251
-    ]
+    ],
+    "description": "Annie worries about the unfinished message.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0040",
@@ -799,7 +845,9 @@
       2,
       1147,
       251
-    ]
+    ],
+    "description": "Jack points out where the handwriting ends.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0041",
@@ -818,7 +866,9 @@
       2,
       1532,
       251
-    ]
+    ],
+    "description": "The children look for more clues inside the tree house.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0042",
@@ -836,7 +886,9 @@
       261,
       379,
       506
-    ]
+    ],
+    "description": "Annie points to the only open book.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0043",
@@ -854,7 +906,9 @@
       261,
       762,
       506
-    ]
+    ],
+    "description": "Jack notices the open book in the corner.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0044",
@@ -872,7 +926,9 @@
       261,
       1147,
       506
-    ]
+    ],
+    "description": "Jack reads the open book in golden window light.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0045",
@@ -890,7 +946,9 @@
       261,
       1532,
       506
-    ]
+    ],
+    "description": "The book picture shows white blossoms and a mountain stream.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0046",
@@ -908,7 +966,9 @@
       516,
       379,
       762
-    ]
+    ],
+    "description": "The book picture shows a tall and a short masked ninja.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0047",
@@ -927,7 +987,9 @@
       516,
       763,
       762
-    ]
+    ],
+    "description": "Annie asks about the figures in the book.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0048",
@@ -946,7 +1008,9 @@
       516,
       1147,
       762
-    ]
+    ],
+    "description": "Jack identifies the figures as ninjas.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0049",
@@ -965,7 +1029,9 @@
       516,
       1532,
       762
-    ]
+    ],
+    "description": "The children consider why Morgan left the book open.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0050",
@@ -984,7 +1050,9 @@
       772,
       379,
       1020
-    ]
+    ],
+    "description": "Annie wants to follow the book’s clue.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0051",
@@ -1002,7 +1070,9 @@
       772,
       763,
       1019
-    ]
+    ],
+    "description": "Jack hesitates about leaving immediately.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0052",
@@ -1020,7 +1090,9 @@
       772,
       1147,
       1020
-    ]
+    ],
+    "description": "Annie urges Jack to help Morgan now.",
+    "review_status": "source, character state and panel crop visually reviewed"
   },
   {
     "id": "scene-0053",
@@ -1038,6 +1110,232 @@
       772,
       1532,
       1020
-    ]
+    ],
+    "description": "Jack wants to read the book before traveling.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0054",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      23
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0054.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      7,
+      5,
+      382,
+      251
+    ],
+    "description": "Annie reaches to take the open book from Jack.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0055",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      24
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0055.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      391,
+      5,
+      765,
+      251
+    ],
+    "description": "Jack asks Annie to give the book back.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0056",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      25
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0056.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      774,
+      5,
+      1147,
+      251
+    ],
+    "description": "Annie holds the book out of Jack’s reach.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0057",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      26
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0057.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      1156,
+      5,
+      1530,
+      251
+    ],
+    "description": "Jack objects because their destination is unknown.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0058",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      27
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0058.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      7,
+      260,
+      382,
+      507
+    ],
+    "description": "Annie points at the book picture and makes a wish.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0059",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      28,
+      29
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0059.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      391,
+      260,
+      765,
+      507
+    ],
+    "description": "The oak leaves shake as the journey begins.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0060",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      30
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0060.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      774,
+      260,
+      1147,
+      507
+    ],
+    "description": "Annie places Peanut in her sweatshirt pouch.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0061",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      31,
+      32
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0061.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      1156,
+      260,
+      1530,
+      507
+    ],
+    "description": "Wind blows through the tree house.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0062",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      33,
+      34
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0062.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      7,
+      517,
+      382,
+      764
+    ],
+    "description": "The tree house spins in the wind.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0063",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      35,
+      36
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0063.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      391,
+      517,
+      765,
+      764
+    ],
+    "description": "Jack closes his eyes as the spinning ends.",
+    "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0064",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      37
+    ],
+    "sentence_markers": 1,
+    "status": "integrated",
+    "asset": "assets/scene-0064.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      774,
+      517,
+      1147,
+      764
+    ],
+    "description": "The tree house becomes still beside the rushing stream.",
+    "review_status": "source, character state and panel crop visually reviewed"
   }
 ]
