@@ -1,0 +1,328 @@
+[
+  {
+    "id": "scene-0001",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack and Annie walk beside the Frog Creek woods.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0001.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      2,
+      379,
+      251
+    ]
+  },
+  {
+    "id": "scene-0002",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      3
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack sighs after repeated unsuccessful searches.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0002.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      392,
+      2,
+      762,
+      251
+    ]
+  },
+  {
+    "id": "scene-0003",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      4
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie decides to search the woods herself.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0003.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      775,
+      2,
+      1146,
+      251
+    ]
+  },
+  {
+    "id": "scene-0004",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "description": "Annie runs into the woods while Jack calls after her.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0004.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1159,
+      2,
+      1533,
+      251
+    ]
+  },
+  {
+    "id": "scene-0005",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      7,
+      8
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack stares into the woods after Annie disappears.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0005.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      262,
+      379,
+      506
+    ]
+  },
+  {
+    "id": "scene-0006",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      9
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack has lost hope during the long absence of the tree house.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0006.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      392,
+      262,
+      762,
+      506
+    ]
+  },
+  {
+    "id": "scene-0007",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      10
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie calls excitedly from inside the woods.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0007.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      775,
+      262,
+      1146,
+      506
+    ]
+  },
+  {
+    "id": "scene-0008",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      11
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack feels skeptical but hopeful.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0008.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1159,
+      262,
+      1533,
+      506
+    ]
+  },
+  {
+    "id": "scene-0009",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      12
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie urges Jack to hurry.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0009.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      517,
+      379,
+      761
+    ]
+  },
+  {
+    "id": "scene-0010",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      13,
+      14
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack runs into the woods after Annie.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0010.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      392,
+      517,
+      762,
+      761
+    ]
+  },
+  {
+    "id": "scene-0011",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      15
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Dusk deepens among the forest trees.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0011.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      775,
+      517,
+      1146,
+      761
+    ]
+  },
+  {
+    "id": "scene-0012",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      16
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack calls for Annie among the trees.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0012.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1159,
+      517,
+      1533,
+      761
+    ]
+  },
+  {
+    "id": "scene-0013",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie calls back from above.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0013.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      4,
+      772,
+      379,
+      1020
+    ]
+  },
+  {
+    "id": "scene-0014",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      18
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack continues searching through the woods.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0014.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      392,
+      772,
+      762,
+      1022
+    ]
+  },
+  {
+    "id": "scene-0015",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      19,
+      20
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie calls down from high in the oak.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0015.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      775,
+      772,
+      1146,
+      1021
+    ]
+  },
+  {
+    "id": "scene-0016",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      21,
+      22
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack looks upward in surprise.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0016.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1159,
+      772,
+      1532,
+      1020
+    ]
+  }
+]
