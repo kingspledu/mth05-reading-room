@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="ko"><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>5권 장별 이미지 일관성</title><style>body{max-width:1000px;margin:24px auto;padding:20px;background:#faf6ed;color:#263e30;font:17px/1.8 system-ui}img{width:100%;height:auto}pre{white-space:pre-wrap}</style><a href="characters.html">캐릭터 시트로 돌아가기</a><h1>1·2장 이미지 일관성 계획</h1><pre># 1·2장 이미지 일관성 계획
 
 생성 전 확인: public/characters.html, character-bible.json, children/Peanut/ninjas 실제 시트, 검수된 grid-0017 원본을 읽고 확인했다.
@@ -39,4 +40,18 @@
 - 책 속 역사 설명은 Jack이 책을 읽는 장면으로 표현. 전쟁이나 스파이 삽화를 현장 사건으로 추가하지 않는다. 노트 문구는 웹 원문에서 읽도록 하고 삽화에는 임의 문장을 넣지 않는다.
 - 마지막에는 닌자 두 명과 어린이 두 명, Peanut은 주머니. 칼을 뽑거나 신체 접촉·폭력 장면을 추가하지 않는다.
 - 생성 시 위 세 인물 시트를 직접 참조하고 실제 경계를 검출한다. 패딩이 경계 검출을 방해하면 수동 좌표로 재크롭한다. 전체 오버레이와 각 컷 컨택트시트를 검수한 뒤 순차 배포한다.
+</pre><h2 id="chapter-04">Chapter 4 · Captured</h2><pre># Chapter 4 · Captured 생성 전 일관성 계획
+
+생성 전 장별 일관성 페이지, 원문 2파트, children/Peanut/ninjas 실제 시트를 다시 읽고 확인했다.
+
+- scene0090~0135, 46컷:16+16+14의 3배치. Part 경계를 정확히 유지한다.
+- 실내는 같은 판자 나무집·바닥 출입구·밧줄 사다리. 사다리는 천장에 달지 않는다. 이후 흰 꽃 나무 아래→저녁 산길→넓고 차가운 급류.
+- Jack 빨강 후드 내림·둥근 안경·청바지·갈색 운동화·배낭, Annie 보라 후드 내림·금발 단발·청반바지·빨간 운동화. Peanut은 Annie 주머니 속 한 마리.
+- 키 큰 닌자 남성과 키 작은 닌자 여성, 검은 복장·가린 얼굴·등의 칼집. 마스터·사무라이·Morgan은 없음. 손의 쇠갈고리는 첫 장면에 벗고 이후 손에 남기지 않는다.
+- 쪽지: Annie→Tall Ninja→Short Ninja→Short Ninja 상의 주머니. 이후 아이 손에 다시 그리지 않는다.
+- Short Ninja가 사다리를 바닥 출입구로 내림→두 닌자가 손으로 하강→Annie 먼저→Jack은 노트·ninja book을 배낭에 넣고 따라 내려감.
+- Short Ninja가 양손으로 두 아이의 팔을 하나씩 잡고 앞에서 이끌며 Tall Ninja는 뒤따른다. 팔 소유자와 인원 4명을 확인한다.
+- 급류: 닌자들이 먼저 들어감→아이들이 손잡고 발을 담금→추워 나옴→닌자 귀환→Tall이 Jack을, Short가 Annie를 어깨에 올림→두 닌자가 건넘. 아이 옷 전체를 젖게 하지 않으며 이때부터 신발·양말이 젖는다.
+- 안경은 계속 착용. 칼은 끝까지 칼집 안. 들고 건너는 마지막 장면은 아이 둘·닌자 둘, 생쥐 한 마리 주머니. 어깨 탑승과 손·팔은 단순 구도로 확인한다.
+- 동일 시트를 매 배치 참조하고 실제 경계 검출·오버레이·컨택트시트를 검사한다. 불확실한 경계는 수동 재크롭. 잘못 생성한 장면만 표적 수정한다. 배치별 순차 배포·Pages SHA 확인.
 </pre></html>
