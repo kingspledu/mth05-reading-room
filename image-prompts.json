@@ -33,5 +33,16 @@
     "prompt": "undefined\n",
     "continuity_plan": "chapter-consistency.html",
     "crop_review": "visually reviewed; actual boundaries, not assumed equal cells"
+  },
+  {
+    "start_scene": 65,
+    "scene_count": 16,
+    "prompt": "undefined\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-03",
+    "review": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
   }
 ]

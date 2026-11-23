@@ -1337,5 +1337,345 @@
     ],
     "description": "The tree house becomes still beside the rushing stream.",
     "review_status": "source, character state and panel crop visually reviewed"
+  },
+  {
+    "id": "scene-0065",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack opens his eyes while Annie and Peanut look outside.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0065.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      3,
+      4,
+      378,
+      250
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0066",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      3
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The children look out of the tree house window.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0066.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      391,
+      2,
+      762,
+      250
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0067",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      4
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The tree house stands in a white-flowering tree beside a mountain stream.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0067.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      775,
+      2,
+      1146,
+      250
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0068",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      5
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Two ninjas stand on rocks looking toward the valley.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0068.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      1159,
+      4,
+      1533,
+      250
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0069",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      6
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "description": "The tall and short ninjas wear black clothes and carry sheathed swords.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0069.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      2,
+      262,
+      378,
+      506
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0070",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      7,
+      8
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack crouches below the windowsill.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0070.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      391,
+      262,
+      762,
+      506
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0071",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      9
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack warns Annie to avoid being seen.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0071.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      775,
+      262,
+      1146,
+      506
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0072",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      10
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie questions Jack quietly.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0072.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      1159,
+      262,
+      1533,
+      506
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0073",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      11,
+      12
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie crouches beside Jack below the window.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0073.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      4,
+      518,
+      378,
+      761
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0074",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      13
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack adjusts his glasses before reading.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0074.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      391,
+      518,
+      762,
+      761
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0075",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      14
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack opens the ninja book to the beginning.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0075.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      775,
+      518,
+      1146,
+      761
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0076",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      15
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "description": "Jack reads about the history of ninjas.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0076.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      1159,
+      518,
+      1533,
+      761
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0077",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      16
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack realizes they are in Japan hundreds of years ago.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0077.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      6,
+      773,
+      378,
+      1020
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0078",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack takes his notebook and pencil from his backpack.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0078.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      392,
+      773,
+      762,
+      1020
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0079",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack writes notes while Annie notices the ninjas looking up.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0079.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      775,
+      773,
+      1146,
+      1020
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0080",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack meets the tall ninja’s eyes from the window.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0080.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      1159,
+      773,
+      1533,
+      1018
+    ],
+    "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
   }
 ]
