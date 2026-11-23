@@ -324,5 +324,335 @@
       1532,
       1020
     ]
+  },
+  {
+    "id": "scene-0017",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      23
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie waves from the tree house window.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0017.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      2,
+      380,
+      251
+    ]
+  },
+  {
+    "id": "scene-0018",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      24,
+      25
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie invites Jack up into the tree house.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0018.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      391,
+      2,
+      763,
+      251
+    ]
+  },
+  {
+    "id": "scene-0019",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      26
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack begins climbing the rope ladder.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0019.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      774,
+      2,
+      1148,
+      251
+    ]
+  },
+  {
+    "id": "scene-0020",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      27,
+      28
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack climbs above the treetops in the last light.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0020.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1159,
+      2,
+      1532,
+      251
+    ]
+  },
+  {
+    "id": "scene-0021",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      29,
+      30
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack enters the tree house and finds Annie among books.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0021.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      260,
+      380,
+      506
+    ]
+  },
+  {
+    "id": "scene-0022",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      31
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The letter M glows on the wooden floor.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0022.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      391,
+      260,
+      763,
+      506
+    ]
+  },
+  {
+    "id": "scene-0023",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      32,
+      33
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The children wonder where Morgan is.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0023.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      774,
+      260,
+      1148,
+      506
+    ]
+  },
+  {
+    "id": "scene-0024",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      34,
+      35
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack and Annie discuss Morgan’s absence.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0024.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1159,
+      260,
+      1533,
+      506
+    ]
+  },
+  {
+    "id": "scene-0025",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      36,
+      37
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "A small mouse runs out from behind books.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0025.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      516,
+      379,
+      761
+    ]
+  },
+  {
+    "id": "scene-0026",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      38,
+      39
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The mouse sits on the glowing M.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0026.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      391,
+      516,
+      763,
+      761
+    ]
+  },
+  {
+    "id": "scene-0027",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      40,
+      41
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Peanut has brown-and-white fur and dark eyes.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0027.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      775,
+      516,
+      1147,
+      761
+    ]
+  },
+  {
+    "id": "scene-0028",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      42
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie gently pats the mouse’s tiny head.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0028.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1159,
+      516,
+      1532,
+      761
+    ]
+  },
+  {
+    "id": "scene-0029",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      43
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie greets the mouse as Peanut.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0029.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      772,
+      379,
+      1020
+    ]
+  },
+  {
+    "id": "scene-0030",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      44,
+      45
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack listens while Annie questions Peanut.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0030.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      391,
+      772,
+      763,
+      1020
+    ]
+  },
+  {
+    "id": "scene-0031",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      46,
+      47
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack doubts that the mouse is magical.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0031.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      775,
+      772,
+      1148,
+      1021
+    ]
+  },
+  {
+    "id": "scene-0032",
+    "chapter": 1,
+    "part_id": "B05_Chapter_01_Part_01",
+    "source_paragraphs": [
+      48
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack notices a piece of paper on the floor.",
+    "semantic_review": "source event and cast reviewed; original paragraphs preserved",
+    "asset": "assets/scene-0032.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1159,
+      772,
+      1532,
+      1020
+    ]
   }
 ]
