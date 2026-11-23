@@ -44,5 +44,16 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-03",
     "review": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "start_scene": 81,
+    "scene_count": 9,
+    "prompt": "undefined\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-03",
+    "review": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
   }
 ]

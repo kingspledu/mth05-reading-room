@@ -1677,5 +1677,200 @@
       1018
     ],
     "review_status": "Chapter3 source and identity states reviewed; actual row gutters and all 16 tile crops visually checked"
+  },
+  {
+    "id": "scene-0081",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      21
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The tall ninja dashes toward the tree with the short ninja following.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0081.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      2,
+      5,
+      379,
+      252
+    ],
+    "review_status": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
+  },
+  {
+    "id": "scene-0082",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      22
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie reacts with alarm inside the tree house.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0082.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      391,
+      5,
+      762,
+      252
+    ],
+    "review_status": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
+  },
+  {
+    "id": "scene-0083",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      23
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack searches urgently for the Pennsylvania book.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0083.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      775,
+      5,
+      1146,
+      252
+    ],
+    "review_status": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
+  },
+  {
+    "id": "scene-0084",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      24,
+      25
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The children search the room for the book that can take them home.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0084.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      1159,
+      3,
+      1531,
+      252
+    ],
+    "review_status": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
+  },
+  {
+    "id": "scene-0085",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      26
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie cannot find the Pennsylvania book.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0085.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      4,
+      264,
+      379,
+      506
+    ],
+    "review_status": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
+  },
+  {
+    "id": "scene-0086",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      27
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack tells Annie to pull up the ladder.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0086.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      393,
+      264,
+      763,
+      506
+    ],
+    "revision": "Targeted ladder correction: floor hatch replaces erroneous ceiling ladder",
+    "revision_source": "grid-0081-ladder-fixed.png",
+    "review_status": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
+  },
+  {
+    "id": "scene-0087",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      28
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack and Annie haul the rope ladder into the tree house.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0087.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      777,
+      264,
+      1146,
+      506
+    ],
+    "revision": "Targeted ladder correction: floor hatch replaces erroneous ceiling ladder",
+    "revision_source": "grid-0081-ladder-fixed.png",
+    "review_status": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
+  },
+  {
+    "id": "scene-0088",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      29
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The ninjas climb the tree trunk after the ladder is pulled up.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0088.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      1159,
+      264,
+      1531,
+      506
+    ],
+    "review_status": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
+  },
+  {
+    "id": "scene-0089",
+    "chapter": 3,
+    "part_id": "B05_Chapter_03_Part_01",
+    "source_paragraphs": [
+      30,
+      31
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The ninjas enter while Jack and Annie huddle in a corner.",
+    "semantic_review": "Original Chapter 3 events, cast and continuity plan reviewed before generation",
+    "asset": "assets/scene-0089.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      4,
+      519,
+      379,
+      761
+    ],
+    "review_status": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
   }
 ]
