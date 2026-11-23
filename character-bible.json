@@ -1,0 +1,51 @@
+{
+  "book": 5,
+  "title": "Night of the Ninjas",
+  "priority_reference": "assets/series-jack-annie-reference.png",
+  "reference_book": 4,
+  "models": [
+    {
+      "id": "MTH05-CHILDREN",
+      "image": "assets/mth05-children-sheet-v1.png",
+      "reference_role": "character_identity_and_state",
+      "source_vs_adaptation": "얼굴·머리·비율은 4권 시트를 유지합니다. 빨강·보라 후드 색은 시리즈 제작 선택이며, 후드·앞주머니·젖은 옷 상태는 5권 원문을 따릅니다.",
+      "review_status": "visually_reviewed"
+    },
+    {
+      "id": "MTH05-PEANUT",
+      "image": "assets/mth05-peanut-sheet-v1.png",
+      "reference_role": "character_identity_and_state",
+      "source_vs_adaptation": "갈색·흰색 털과 큰 짙은 눈은 원문 기준입니다. 무늬 배치·세부 체형은 제작 선택이며 아동의 손보다 작은 생쥐로 유지합니다. 개별 시트의 무늬를 본문 장면의 기준으로 사용합니다.",
+      "review_status": "visually_reviewed"
+    },
+    {
+      "id": "MTH05-NINJAS",
+      "image": "assets/mth05-ninjas-sheet-v1.png",
+      "reference_role": "character_identity_and_state",
+      "source_vs_adaptation": "검은 복장·스카프·등의 칼, 키 차이와 짧은 닌자가 여성이라는 점은 원문 기준입니다. 닌자 마스터의 구체적 얼굴·나이 표현과 의상 세부는 제작 선택입니다. 칼을 착용하기 전후와 쇠갈고리 사용 상태를 구분합니다.",
+      "review_status": "visually_reviewed"
+    },
+    {
+      "id": "MTH05-SUPPORTING",
+      "image": "assets/mth05-supporting-sheet-v1.png",
+      "reference_role": "character_identity_and_state",
+      "source_vs_adaptation": "대나무 갑옷과 두 자루의 칼, 횃불은 원문에 근거합니다. 갑옷 세부·색상과 아버지의 얼굴·옷은 제작 선택입니다. 아버지는 10장 현대의 집 현관에 멀리 등장합니다.",
+      "review_status": "visually_reviewed"
+    }
+  ],
+  "state_timeline": [
+    "Ch1-6: hood down; Peanut enters Annie pouch in Ch2",
+    "Ch4 stream crossing: shoes become wet",
+    "Ch7: both hoods up",
+    "Ch8: Jack falls in stream; both hoods down afterward; Peanut leaves pouch",
+    "Ch9: Jack remains wet; master gives moonstone to Jack and Pennsylvania book to Annie",
+    "Ch10: Peanut stays in sock bed in tree house; Dad distant on porch; Henry heard only; Morgan absent"
+  ],
+  "rules": [
+    "Only source-present characters in each scene",
+    "No Book4 raincoats, boots or pirates",
+    "Peanut dedicated sheet overrides incidental mouse pattern in children sheet",
+    "Master sword only after departure preparation",
+    "Dad reference is modern Frog Creek only"
+  ]
+}
