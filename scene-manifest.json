@@ -745,5 +745,299 @@
       382,
       543
     ]
+  },
+  {
+    "id": "scene-0038",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0038.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      2,
+      4,
+      379,
+      251
+    ]
+  },
+  {
+    "id": "scene-0039",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      3
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0039.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      391,
+      2,
+      763,
+      251
+    ]
+  },
+  {
+    "id": "scene-0040",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      4
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0040.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      775,
+      2,
+      1147,
+      251
+    ]
+  },
+  {
+    "id": "scene-0041",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0041.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      1159,
+      2,
+      1532,
+      251
+    ]
+  },
+  {
+    "id": "scene-0042",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      7
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0042.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      2,
+      261,
+      379,
+      506
+    ]
+  },
+  {
+    "id": "scene-0043",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      8
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0043.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      391,
+      261,
+      762,
+      506
+    ]
+  },
+  {
+    "id": "scene-0044",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      9
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0044.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      775,
+      261,
+      1147,
+      506
+    ]
+  },
+  {
+    "id": "scene-0045",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      10
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0045.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      1159,
+      261,
+      1532,
+      506
+    ]
+  },
+  {
+    "id": "scene-0046",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      11
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0046.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      5,
+      516,
+      379,
+      762
+    ]
+  },
+  {
+    "id": "scene-0047",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      12,
+      13
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0047.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      392,
+      516,
+      763,
+      762
+    ]
+  },
+  {
+    "id": "scene-0048",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      14,
+      15
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0048.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      776,
+      516,
+      1147,
+      762
+    ]
+  },
+  {
+    "id": "scene-0049",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      16,
+      17
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0049.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      1160,
+      516,
+      1532,
+      762
+    ]
+  },
+  {
+    "id": "scene-0050",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0050.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      4,
+      772,
+      379,
+      1020
+    ]
+  },
+  {
+    "id": "scene-0051",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0051.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      392,
+      772,
+      763,
+      1019
+    ]
+  },
+  {
+    "id": "scene-0052",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      21
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0052.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      776,
+      772,
+      1147,
+      1020
+    ]
+  },
+  {
+    "id": "scene-0053",
+    "chapter": 2,
+    "part_id": "B05_Chapter_02_Part_01",
+    "source_paragraphs": [
+      22
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0053.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      1160,
+      772,
+      1532,
+      1020
+    ]
   }
 ]
