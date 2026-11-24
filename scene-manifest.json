@@ -4279,5 +4279,349 @@
       762
     ],
     "review_status": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
+  },
+  {
+    "id": "scene-0203",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Annie suggests following the direction indicated by the departed ninja.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0203.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      8,
+      7,
+      378,
+      253
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0204",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      3
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack pauses to write down the advice.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0204.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      392,
+      7,
+      761,
+      253
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0205",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      4,
+      5
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack records the three principles in his notebook.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0205.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      776,
+      7,
+      1144,
+      253
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0206",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      6
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie asks Jack to look at her hood.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0206.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      1159,
+      7,
+      1530,
+      253
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0207",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      7
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie has pulled up her hood and tightened its strings.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0207.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      8,
+      264,
+      378,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0208",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack pulls his own hood up.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0208.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      393,
+      264,
+      761,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0209",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack puts away his notebook and the children set off.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0209.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      776,
+      264,
+      1144,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0210",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      12
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The hooded children slip between pine trees.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0210.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      1160,
+      264,
+      1530,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0211",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      13
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack becomes confused by the identical trees.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0211.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      8,
+      518,
+      378,
+      757
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0212",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      14,
+      15
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The children stop to check their surroundings.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0212.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      393,
+      518,
+      761,
+      757
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0213",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      16
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack asks if they are still going east.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0213.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      776,
+      518,
+      1144,
+      757
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0214",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      17,
+      18
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack says they need to know their direction for sure.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0214.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      1160,
+      518,
+      1530,
+      757
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0215",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      19
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie points out that they have no compass.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0215.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      8,
+      769,
+      378,
+      1015
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0216",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      20,
+      21
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack remembers the advice to use nature.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0216.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      393,
+      769,
+      761,
+      1016
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0217",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      22
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie asks how they can use nature.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0217.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      776,
+      769,
+      1144,
+      1015
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0218",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack closes his eyes and recalls a camping book.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0218.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      1160,
+      769,
+      1530,
+      1015
+    ],
+    "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
   }
 ]
