@@ -3407,5 +3407,348 @@
       1020
     ],
     "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0162",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      1
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The children follow the ninja into the cave.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0162.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      8,
+      8,
+      380,
+      251
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0163",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      2
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Many candles illuminate the back of the cave.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0163.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      392,
+      8,
+      763,
+      251
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0164",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      3,
+      4
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The ninja master sits on a woven mat.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0164.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      775,
+      8,
+      1146,
+      251
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0165",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      5
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The ninja bows and steps aside.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0165.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1158,
+      8,
+      1530,
+      251
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0166",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      6,
+      7
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The master asks the children to sit.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0166.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      8,
+      263,
+      380,
+      505
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0167",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack and Annie sit on the stone floor.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0167.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      392,
+      263,
+      763,
+      505
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0168",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie reassures Peanut in her pouch.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0168.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      775,
+      263,
+      1146,
+      505
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0169",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      12
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The master asks Jack who he is.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0169.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1158,
+      263,
+      1530,
+      505
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0170",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      13,
+      14
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack introduces himself and Annie.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0170.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      8,
+      517,
+      380,
+      759
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0171",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie tells the master where they live.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0171.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      392,
+      517,
+      763,
+      759
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0172",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack explains their search for Morgan.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0172.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      775,
+      517,
+      1146,
+      759
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0173",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      18
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie points to the short ninja.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0173.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1158,
+      517,
+      1530,
+      759
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0174",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      19
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The master explains that the short ninja is a woman.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0174.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      8,
+      771,
+      380,
+      1016
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0175",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The children react with surprise.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0175.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      392,
+      771,
+      763,
+      1016
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0176",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      21
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The woman ninja smiles with her eyes.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0176.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      775,
+      771,
+      1146,
+      1016
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0177",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The master holds Morgan’s note and offers a test.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0177.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1158,
+      771,
+      1530,
+      1016
+    ],
+    "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
   }
 ]

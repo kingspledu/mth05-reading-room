@@ -110,5 +110,16 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-05",
     "review": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "start_scene": 162,
+    "scene_count": 16,
+    "prompt": "ONE landscape high nativequality EXACT4x4 grid16 equalpanels WHITE straight quartergutters NO captions speech text. Warm polished rounded webtoon exactreferences. Jack brown hair ROUNDglasses RED LONGSLEEVE HOODIE sleeves WRISTS hoodDOWN jeans brownwetsneakers tanbackpack. Annie blondebob LAVENDER LONGSLEEVE HOODIE hoodDOWN denimshorts redwetsneakers NO BACKPACK one TINYbrownwhite mouse INPOUCH. NinjaMASTER shortgreyhair facevisible kindwise older Japanese man darkrobe NO SWORD YET seated wovenmat. Short WOMAN ninja blackuniform coveredface swordSHEATH back. Tallninja NOT present except entrance optional firstcell. Setting natural stonecave dozens candles warm amber readablefaces no furniture. rowmajor16:1 children follow SHORTninja into darkcave;2 wide backcave MANYcandles stonewalls no people focal;3 master seated on wovenmat flickeringlight no sword;4 shortninja bows to master childrenbehind;5 master gestures sit to children;6 twochildren sit bareSTONEfloor opposite mat master;7 close Annie reassures mouse inpouch;8 master looks at mouse then Jack asking identity;9 Jack introduces himself and Annie;10 Annie answers hometown master listens;11 Jack explains missing friend no Morgan visible;12 Annie points toward SHORTninja;13 master corrects them shortninja is woman, calm gesture;14 bothchildren surprised;15 close SHORTfemale ninja smiling ONLYEYES scarf remains coveringnosemouth;16 master holds up ONE paper note to children, master NO SWORD, one shortninja background, no actual samurai. Exactly one master only. Normalarms no extrapeople. Children dryupperclothes hoodsDOWN.\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-06",
+    "review": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
   }
 ]
