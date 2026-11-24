@@ -5460,5 +5460,348 @@
       1020
     ],
     "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0258",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Peanut peers out while the water rushes over rocks.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0258.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      4,
+      6,
+      379,
+      254
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0259",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      24
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Annie reassures Peanut in her pouch.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0259.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      392,
+      4,
+      762,
+      254
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0260",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      25,
+      26
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The stream current knocks Jack off balance.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0260.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      775,
+      4,
+      1146,
+      254
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0261",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      27
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack grabs weeds at the bank while water swirls around him.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0261.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1159,
+      4,
+      1531,
+      254
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0262",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      28,
+      29
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Annie pulls Jack back onto the bank.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0262.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      4,
+      265,
+      379,
+      511
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0263",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      30
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The children react after Jack’s escape from the water.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0263.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      392,
+      265,
+      762,
+      511
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0264",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      31
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack wipes his glasses after the fall.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0264.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      775,
+      265,
+      1146,
+      511
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0265",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      32
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie asks whether Jack is all right.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0265.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1159,
+      265,
+      1531,
+      511
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0266",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      33
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack shivers in his soaked clothes.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0266.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      4,
+      521,
+      380,
+      762
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0267",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      34,
+      35
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie doubts they can cross the stream.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0267.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      392,
+      521,
+      762,
+      762
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0268",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      36,
+      37
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack pulls off his wet hood.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0268.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      775,
+      521,
+      1146,
+      762
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0269",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      38
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Annie pulls off her hood.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0269.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1159,
+      521,
+      1533,
+      762
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0270",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      39,
+      40
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Peanut jumps out of Annie’s pouch onto the ground.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0270.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      4,
+      773,
+      379,
+      1018
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0271",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      41,
+      42
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Peanut runs away while Annie calls after it.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0271.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      392,
+      773,
+      762,
+      1018
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0272",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      43
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack urges Annie to follow Peanut.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0272.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      775,
+      773,
+      1146,
+      1018
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0273",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      44
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie asks why they should follow the mouse.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0273.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1159,
+      773,
+      1531,
+      1018
+    ],
+    "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
   }
 ]
