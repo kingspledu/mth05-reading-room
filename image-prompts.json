@@ -55,5 +55,16 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-03",
     "review": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
+  },
+  {
+    "start_scene": 90,
+    "scene_count": 16,
+    "prompt": "undefined\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-04",
+    "review": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
   }
 ]

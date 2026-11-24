@@ -1872,5 +1872,346 @@
       761
     ],
     "review_status": "All nine panel crops reviewed; scenes86/87 selectively regenerated to correct floor-hatch ladder; two children two ninjas counted in final scene"
+  },
+  {
+    "id": "scene-0090",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      1
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The ninjas remove their spiked climbing hand bands.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0090.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      5,
+      5,
+      380,
+      252
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0091",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      2,
+      3
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie whispers while the masked ninjas watch the children.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0091.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      390,
+      6,
+      762,
+      252
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0092",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      4,
+      5
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie steps forward while Jack remains frightened.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0092.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      773,
+      5,
+      1146,
+      252
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0093",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      6,
+      7
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Annie greets the silent ninjas.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0093.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      1156,
+      5,
+      1530,
+      252
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0094",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie shows Morgan’s note to the ninjas.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0094.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      5,
+      263,
+      380,
+      506
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0095",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      10
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The tall ninja passes the note to the short ninja.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0095.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      392,
+      263,
+      762,
+      506
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0096",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      11
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The ninjas exchange a look.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0096.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      773,
+      263,
+      1145,
+      506
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0097",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      12
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The short ninja places the note in her shirt pocket.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0097.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      1156,
+      263,
+      1531,
+      506
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0098",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      13
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie asks whether the ninjas can help.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0098.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      5,
+      518,
+      380,
+      758
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0099",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      14
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack studies the ninjas’ covered faces.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0099.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      393,
+      518,
+      762,
+      758
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0100",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      15
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The short ninja lowers the rope ladder through the floor entrance.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0100.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      775,
+      518,
+      1144,
+      758
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0101",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      16
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack worries about being captured.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0101.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      1157,
+      518,
+      1529,
+      758
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0102",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie asks whether they should follow.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0102.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      5,
+      770,
+      380,
+      1016
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0103",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The ninja nods and Annie is excited.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0103.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      392,
+      770,
+      762,
+      1016
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0104",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack doubts Annie’s enthusiasm.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0104.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      775,
+      770,
+      1144,
+      1018
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0105",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      21
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The short ninja descends the ladder using her hands.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0105.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      1156,
+      770,
+      1529,
+      1016
+    ],
+    "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
   }
 ]
