@@ -77,5 +77,16 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-04",
     "review": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "start_scene": 122,
+    "scene_count": 14,
+    "prompt": "undefined\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-04",
+    "review": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
   }
 ]

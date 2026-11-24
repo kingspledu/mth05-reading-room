@@ -2555,5 +2555,302 @@
       1020
     ],
     "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0122",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      12
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie asks whether they must cross the stream.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0122.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      3,
+      3,
+      379,
+      251
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0123",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      13
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Both ninjas begin wading across the stream.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0123.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      390,
+      5,
+      762,
+      251
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0124",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      14
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack suggests returning to the tree house.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0124.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      773,
+      3,
+      1145,
+      251
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0125",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      15
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie insists on following for Morgan’s sake.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0125.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1156,
+      5,
+      1532,
+      251
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0126",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      16
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack takes a deep breath and agrees.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0126.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      5,
+      261,
+      379,
+      506
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0127",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The children hold hands and step into the icy water.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0127.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      390,
+      261,
+      762,
+      506
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0128",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      18
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack and Annie jump back out of the water.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0128.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      774,
+      261,
+      1145,
+      506
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0129",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      19
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack reacts to the freezing water.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0129.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1156,
+      261,
+      1532,
+      506
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0130",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      20,
+      21
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The children shiver on the bank.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0130.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      5,
+      517,
+      379,
+      761
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0131",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      22
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Both ninjas turn back toward the children.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0131.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      390,
+      517,
+      762,
+      761
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0132",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The tall ninja prepares to lift Jack.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0132.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      774,
+      517,
+      1145,
+      761
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0133",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      25
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The tall ninja seats Jack on his shoulder.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0133.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1157,
+      517,
+      1532,
+      761
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0134",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      26,
+      27
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The short ninja carries Annie into the stream beside the tall ninja and Jack.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0134.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      3,
+      772,
+      379,
+      1021
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0135",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      28
+    ],
+    "sentence_markers": 1,
+    "status": "integrated",
+    "description": "Both ninjas calmly carry the children across the stream.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0135.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      391,
+      772,
+      762,
+      1022
+    ],
+    "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
   }
 ]
