@@ -3750,5 +3750,343 @@
       1016
     ],
     "review_status": "All16 crops and actual gutters visually reviewed; master seated without sword and note ownership checked"
+  },
+  {
+    "id": "scene-0178",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      24
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The tall ninja appears and signals the master.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0178.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      6,
+      5,
+      356,
+      266
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0179",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      25
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The master stands and returns the note to Annie.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0179.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      370,
+      5,
+      718,
+      266
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0180",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      26
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The master warns that the samurai are close.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0180.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      731,
+      5,
+      1080,
+      266
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0181",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      27
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack asks about the samurai.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0181.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1093,
+      5,
+      1442,
+      266
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0182",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      28
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack asks about the valley torches.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0182.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      8,
+      278,
+      356,
+      536
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0183",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      29
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The master explains why they must leave.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0183.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      370,
+      278,
+      718,
+      536
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0184",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      30
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie asks about helping Morgan.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0184.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      731,
+      278,
+      1080,
+      536
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0185",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      31,
+      32
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The master straps on his sheathed sword.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0185.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1094,
+      278,
+      1442,
+      536
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0186",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      33
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie asks to accompany the master.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0186.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      8,
+      548,
+      356,
+      808
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0187",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      34
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The master tells the children to return to their tree house.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0187.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      370,
+      548,
+      718,
+      808
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0188",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      35
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack worries about going alone.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0188.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      731,
+      548,
+      1080,
+      808
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0189",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      36
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The master warns them to beware of samurai.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0189.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1094,
+      548,
+      1442,
+      808
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0190",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      37
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack asks why.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0190.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      8,
+      820,
+      356,
+      1080
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0191",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      38
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The master explains the danger.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0191.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      370,
+      820,
+      718,
+      1080
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0192",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      39,
+      40
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie reacts while the master encourages them.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0192.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      732,
+      820,
+      1080,
+      1080
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0193",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      41
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack asks how to practice the ninja way.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0193.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1094,
+      820,
+      1442,
+      1080
+    ],
+    "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
   }
 ]
