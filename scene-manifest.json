@@ -6284,5 +6284,626 @@
       1020
     ],
     "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0314",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0314.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      5,
+      7,
+      378,
+      251
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0315",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0315.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      392,
+      6,
+      762,
+      251
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0316",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      12,
+      13
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0316.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      776,
+      7,
+      1144,
+      251
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0317",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      14,
+      15
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0317.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      1158,
+      7,
+      1530,
+      251
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0318",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      16,
+      17
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0318.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      5,
+      264,
+      378,
+      505
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0319",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0319.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      392,
+      264,
+      761,
+      505
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0320",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      20,
+      21
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0320.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      776,
+      264,
+      1144,
+      505
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0321",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      22
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0321.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      1159,
+      264,
+      1530,
+      505
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0322",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      23
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0322.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      5,
+      518,
+      379,
+      757
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0323",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      24
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0323.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      393,
+      518,
+      761,
+      757
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0324",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      25
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0324.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      776,
+      518,
+      1144,
+      757
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0325",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      26
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0325.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      1159,
+      518,
+      1529,
+      757
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0326",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      27
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0326.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      7,
+      771,
+      379,
+      1017
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0327",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      28
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0327.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      394,
+      771,
+      762,
+      1018
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0328",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      29
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0328.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      777,
+      771,
+      1144,
+      1017
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0329",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      30
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0329.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      1159,
+      771,
+      1529,
+      1018
+    ],
+    "review_status": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "id": "scene-0298",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      25
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0298.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      7,
+      7,
+      378,
+      253
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0299",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      26,
+      27
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0299.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      392,
+      6,
+      761,
+      253
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0300",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      28
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0300.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      776,
+      6,
+      1144,
+      253
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0301",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      29
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0301.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1159,
+      8,
+      1531,
+      253
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0302",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      30
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0302.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      8,
+      266,
+      378,
+      505
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0303",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      31
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0303.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      393,
+      266,
+      761,
+      505
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0304",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      32
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0304.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      776,
+      266,
+      1144,
+      505
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0305",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      33
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0305.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1159,
+      266,
+      1532,
+      505
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0306",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      34
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0306.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      6,
+      518,
+      378,
+      740
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0307",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      35,
+      36
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0307.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      393,
+      518,
+      761,
+      740
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0308",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      37
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0308.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      776,
+      518,
+      1144,
+      740
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0309",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      38,
+      39
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0309.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1159,
+      518,
+      1532,
+      740
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0310",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0310.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      8,
+      754,
+      378,
+      1016
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0311",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      3,
+      4
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0311.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      393,
+      754,
+      761,
+      1016
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0312",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0312.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      776,
+      754,
+      1144,
+      1016
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0313",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      7
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0313.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      1158,
+      754,
+      1528,
+      1016
+    ],
+    "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
   }
 ]

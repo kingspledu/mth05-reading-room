@@ -220,5 +220,27 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-09",
     "review": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "start_scene": 298,
+    "scene_count": 16,
+    "prompt": "ONE nativehighquality landscape EXACT4x4 grid16 equalpanels WHITEquartergutters. NO captions speech numbers letters. Polishedwarmrounded webtoon exactrefs. Jack redLONGSLEEVEhoodie HOODDOWN wetbrownhair ROUNDglasses wetjeans brownshoes tanbackpack remains WET. Annie lavenderLONGSLEEVEhoodie HOODDOWN dryblondebob shorts redsneakers NO backpack EMPTYpouch. NO mouse visible ALL16, Peanut hiddeninside treehouse at end. NO actual ninjas master samurai visible, approaching torchflames DISTANTonly. Japan moonlit FARbank whiteflowergrove wooden squaretreehouse high floweringtree ropeLADDER down toground bottomFLOORentrance.16rowmajor:1 children relax onfarbank discuss successfulcrossing;2 Annie happy Jack smiles;3 close wetJack glad littlewaterdrops;4 Jack stands adjusts glasses;5 Annie POINTS UPward;6 establish wooden TREEHOUSE in WHITEBLOSSOMtree silhouette moon, rope ladder toground;7 Jack hears distant voices sees SMALLtorches throughdistanttrees;8 Jack urgent says mustgo;9 Annie searches grass for Peanut emptypouch sad;10 Jack warns distanttorches nearer no warriorsforeground;11 Jack gently grabs Annie HAND pulls towardrope ladder bothground;12 Annie sadly hesitates Jack urges near ladder;13 Annie climbs FIRST Jack follows below same ladder;14 both climb higher AnnieaboveJack;15 Annie near top delighted hearingmouse inside but no mouse visible;16 Annie pulls into FLOORHATCH Jack immediatelybelow following. No sidewindowclimbing, no ceilingladder. HoodsDOWNallpanels no addedbackpackAnnie no dryJack reset.\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-09",
+    "review": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "start_scene": 314,
+    "scene_count": 16,
+    "prompt": "undefined\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-09",
+    "review": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
   }
 ]
