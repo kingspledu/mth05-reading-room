@@ -198,5 +198,16 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-08",
     "review": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "start_scene": 274,
+    "scene_count": 8,
+    "prompt": "undefined\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-08",
+    "review": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
   }
 ]

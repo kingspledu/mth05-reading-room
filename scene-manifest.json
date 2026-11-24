@@ -5803,5 +5803,174 @@
       1018
     ],
     "review_status": "All16 crops reviewed; unwanted text and numbers removed; hood, soaked Jack, rescue hands and mouse exit checked"
+  },
+  {
+    "id": "scene-0274",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      45
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack remembers the instruction to follow nature.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0274.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      2,
+      3,
+      380,
+      257
+    ],
+    "review_status": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
+  },
+  {
+    "id": "scene-0275",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      46
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "description": "Annie searches for Peanut on the bank.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0275.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      392,
+      4,
+      763,
+      257
+    ],
+    "review_status": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
+  },
+  {
+    "id": "scene-0276",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      47
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Peanut runs through grass beside the stream.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0276.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      774,
+      2,
+      1146,
+      257
+    ],
+    "review_status": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
+  },
+  {
+    "id": "scene-0277",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      48
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack points out the mouse.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0277.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1158,
+      2,
+      1531,
+      257
+    ],
+    "review_status": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
+  },
+  {
+    "id": "scene-0278",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      49
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The children hurry along the bank after Peanut.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0278.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      2,
+      269,
+      380,
+      522
+    ],
+    "review_status": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
+  },
+  {
+    "id": "scene-0279",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      50
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "A fallen branch spans a narrow part of the stream.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0279.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      392,
+      269,
+      763,
+      522
+    ],
+    "review_status": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
+  },
+  {
+    "id": "scene-0280",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      51,
+      52
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Peanut runs over the branch as Annie approaches.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0280.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      774,
+      269,
+      1146,
+      522
+    ],
+    "review_status": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
+  },
+  {
+    "id": "scene-0281",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      53
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "description": "Jack warns Annie that the branch may break.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0281.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1158,
+      269,
+      1532,
+      522
+    ],
+    "review_status": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
   }
 ]
