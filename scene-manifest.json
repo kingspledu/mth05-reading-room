@@ -6905,5 +6905,711 @@
       1016
     ],
     "review_status": "All16 actual boundary crops reviewed; last two panels corrected to floor hatch, wet Jack and empty Annie pouch preserved"
+  },
+  {
+    "id": "scene-0330",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      31,
+      32
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0330.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      2,
+      2,
+      382,
+      254
+    ],
+    "review_status": "Manual 4x4 panel boundaries verified; six scene crops and blank padding checked visually."
+  },
+  {
+    "id": "scene-0331",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      33,
+      34
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0331.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      386,
+      2,
+      766,
+      254
+    ],
+    "review_status": "Manual 4x4 panel boundaries verified; six scene crops and blank padding checked visually."
+  },
+  {
+    "id": "scene-0332",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      35
+    ],
+    "sentence_markers": 6,
+    "status": "integrated",
+    "asset": "assets/scene-0332.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      770,
+      2,
+      1150,
+      254
+    ],
+    "review_status": "Manual 4x4 panel boundaries verified; six scene crops and blank padding checked visually."
+  },
+  {
+    "id": "scene-0333",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      36,
+      37
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0333.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      1154,
+      2,
+      1534,
+      254
+    ],
+    "review_status": "Manual 4x4 panel boundaries verified; six scene crops and blank padding checked visually."
+  },
+  {
+    "id": "scene-0334",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      38
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0334.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      2,
+      258,
+      382,
+      510
+    ],
+    "review_status": "Manual 4x4 panel boundaries verified; six scene crops and blank padding checked visually."
+  },
+  {
+    "id": "scene-0335",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_02",
+    "source_paragraphs": [
+      39,
+      40
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0335.webp",
+    "page": "part-09-02.html",
+    "crop": [
+      386,
+      258,
+      766,
+      510
+    ],
+    "review_status": "Manual 4x4 panel boundaries verified; six scene crops and blank padding checked visually."
+  },
+  {
+    "id": "scene-0336",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0336.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      3,
+      2,
+      359,
+      267
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0337",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      3,
+      4
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0337.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      367,
+      2,
+      721,
+      267
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0338",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0338.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      728,
+      2,
+      1082,
+      267
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0339",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      7,
+      8
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0339.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1090,
+      2,
+      1446,
+      267
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0340",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      9
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0340.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      3,
+      275,
+      359,
+      539
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0341",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      10
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0341.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      367,
+      275,
+      721,
+      539
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0342",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      11
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0342.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      729,
+      275,
+      1082,
+      539
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0343",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      12,
+      13
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0343.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1091,
+      275,
+      1446,
+      539
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0344",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      14
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0344.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      3,
+      546,
+      359,
+      809
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0345",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0345.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      367,
+      546,
+      721,
+      809
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0346",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0346.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      729,
+      546,
+      1082,
+      809
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0347",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0347.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1091,
+      546,
+      1446,
+      809
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0348",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0348.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      2,
+      817,
+      359,
+      1083
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0349",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      21
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0349.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      367,
+      817,
+      719,
+      1084
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0350",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      22
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0350.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      729,
+      817,
+      1082,
+      1084
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0351",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0351.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1091,
+      817,
+      1446,
+      1083
+    ],
+    "review_status": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "id": "scene-0352",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      25
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0352.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      5,
+      4,
+      381,
+      252
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0353",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      26,
+      27
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0353.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      391,
+      3,
+      764,
+      252
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0354",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      28,
+      29
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0354.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      774,
+      3,
+      1148,
+      252
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0355",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      30,
+      31
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0355.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1157,
+      3,
+      1533,
+      252
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0356",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      32,
+      33
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0356.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      6,
+      261,
+      381,
+      507
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0357",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      34
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0357.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      391,
+      261,
+      764,
+      507
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0358",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      35
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0358.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      775,
+      261,
+      1147,
+      507
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0359",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      36,
+      37
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0359.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1158,
+      261,
+      1531,
+      507
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0360",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      38,
+      39
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0360.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      4,
+      515,
+      381,
+      761
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0361",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      40,
+      41
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0361.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      392,
+      515,
+      764,
+      761
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0362",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      42,
+      43
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0362.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      775,
+      515,
+      1148,
+      761
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0363",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      44
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0363.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      1158,
+      515,
+      1531,
+      761
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0364",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      45,
+      46
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0364.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      4,
+      770,
+      381,
+      1018
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
+  },
+  {
+    "id": "scene-0365",
+    "chapter": 10,
+    "part_id": "B05_Chapter_10_Part_01",
+    "source_paragraphs": [
+      47,
+      48
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0365.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      392,
+      770,
+      764,
+      1018
+    ],
+    "review_status": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
   }
 ]

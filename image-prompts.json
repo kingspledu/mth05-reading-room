@@ -242,5 +242,38 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-09",
     "review": "All16 actual boundary crops reviewed; mouse to Annie, moonstone to Jack, book to Annie and night treehouse continuity checked"
+  },
+  {
+    "start_scene": 330,
+    "scene_count": 6,
+    "prompt": "Scenes 330-335: wind shakes white flowers; master descends rope ladder; Jack calls; treehouse spins; Jack grips moonstone; stillness. 4x4 grid, first six panels only, exact white gutters, children/master continuity.",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-09",
+    "review": "Manual 4x4 panel boundaries verified; six scene crops and blank padding checked visually."
+  },
+  {
+    "start_scene": 336,
+    "scene_count": 16,
+    "prompt": "Scenes 336-351: Frog Creek sunset homecoming, moonstone admired then pocketed, distant Dad porch, Annie removes one sock and prepares Peanut bed. 4x4 grid, first 16 panels, exact white gutters, no Japan/ninjas.",
+    "native_size": [
+      1448,
+      1086
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-10",
+    "review": "4x4 gutters and sixteen crops verified visually; Frog Creek transition and prop continuity checked."
+  },
+  {
+    "start_scene": 352,
+    "scene_count": 14,
+    "prompt": "Scenes 352-365: Annie places Peanut in white sock bed, glowing M, goodbye and kisses, children descend and return through dark woods. 4x4 grid, first 14 panels, exact white gutters, no extra mouse.",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-10",
+    "review": "4x4 gutters and fourteen crops verified visually; sock bed, Peanut, moonstone, and return-home continuity checked."
   }
 ]
