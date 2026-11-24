@@ -2852,5 +2852,560 @@
       1022
     ],
     "review_status": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "id": "scene-0152",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie wonders where the ninjas went.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0152.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      8,
+      7,
+      378,
+      249
+    ],
+    "review_status": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "id": "scene-0153",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      21
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack suggests checking the book.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0153.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      393,
+      7,
+      761,
+      249
+    ],
+    "review_status": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "id": "scene-0154",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack finds a cave picture in the ninja book.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0154.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      776,
+      7,
+      1145,
+      249
+    ],
+    "review_status": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "id": "scene-0155",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      24,
+      25,
+      26
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack reads about hidden mountain cave meetings.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0155.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1160,
+      7,
+      1529,
+      249
+    ],
+    "review_status": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "id": "scene-0156",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      27,
+      28,
+      29
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack makes notes and turns to the picture of a seated ninja.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0156.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      8,
+      263,
+      378,
+      504
+    ],
+    "review_status": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "id": "scene-0157",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      30
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack reads about the ninja master.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0157.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      393,
+      263,
+      761,
+      504
+    ],
+    "review_status": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "id": "scene-0158",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      31,
+      32
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Both ninjas return and Jack puts his books away.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0158.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      777,
+      263,
+      1145,
+      504
+    ],
+    "review_status": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "id": "scene-0159",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      33
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The short ninja gestures toward a dark cave entrance.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0159.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1160,
+      263,
+      1531,
+      504
+    ],
+    "review_status": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "id": "scene-0160",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      34
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie asks what is inside the cave.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0160.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      8,
+      518,
+      378,
+      760
+    ],
+    "review_status": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "id": "scene-0161",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      35
+    ],
+    "sentence_markers": 1,
+    "status": "integrated",
+    "description": "Jack whispers that the ninja master is inside.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0161.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      393,
+      518,
+      761,
+      760
+    ],
+    "review_status": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
+  },
+  {
+    "id": "scene-0136",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      1
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The ninjas lower the children onto the far bank.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0136.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      3,
+      3,
+      379,
+      252
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0137",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      2,
+      3
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack and Annie thank the ninjas.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0137.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      391,
+      3,
+      763,
+      252
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0138",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      4,
+      5
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Peanut squeaks while the ninjas look around.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0138.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      775,
+      3,
+      1147,
+      252
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0139",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      6
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack sees the full moon above the rocky mountainside.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0139.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1159,
+      3,
+      1532,
+      252
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0140",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      7
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The ninjas move silently up the rocky slope.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0140.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      3,
+      260,
+      379,
+      507
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0141",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      8
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The children follow with growing trust.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0141.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      391,
+      260,
+      763,
+      507
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0142",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      9
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The children make noise while following the silent ninjas.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0142.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      775,
+      260,
+      1147,
+      507
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0143",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      10
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Their wet sneakers squish as they climb.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0143.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1159,
+      260,
+      1532,
+      507
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0144",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      11
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The ninjas freeze as torches appear in the misty valley below.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0144.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      3,
+      515,
+      379,
+      763
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0145",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      12
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The group hurries up the slope.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0145.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      391,
+      515,
+      763,
+      763
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0146",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      13
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie asks who carries the torches.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0146.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      775,
+      515,
+      1147,
+      763
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0147",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      14
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack is too breathless to answer.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0147.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1159,
+      515,
+      1532,
+      763
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0148",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      15
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The group reaches a moonlit pine forest.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0148.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      5,
+      772,
+      379,
+      1020
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0149",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      16
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The ninjas slip between moonlight and shadows.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0149.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      391,
+      772,
+      763,
+      1020
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0150",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      17,
+      18
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The children catch up as the ninjas stop.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0150.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      775,
+      772,
+      1147,
+      1020
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "id": "scene-0151",
+    "chapter": 5,
+    "part_id": "B05_Chapter_05_Part_01",
+    "source_paragraphs": [
+      19
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "A ninja signals the children to wait before both disappear among the trees.",
+    "semantic_review": "Chapter5 original and continuity page reviewed before generation",
+    "asset": "assets/scene-0151.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1159,
+      772,
+      1532,
+      1020
+    ],
+    "review_status": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
   }
 ]

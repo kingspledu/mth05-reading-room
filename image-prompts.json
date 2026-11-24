@@ -88,5 +88,27 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-04",
     "review": "All14 actual gutter crops reviewed; two ninjas carry correct children, mouse remains in pouch, blank padding excluded"
+  },
+  {
+    "start_scene": 136,
+    "scene_count": 16,
+    "prompt": "undefined\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-05",
+    "review": "Wardrobe corrected before release; long sleeves and Annie no-backpack verified; all16 crops reviewed"
+  },
+  {
+    "start_scene": 152,
+    "scene_count": 10,
+    "prompt": "undefined\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-05",
+    "review": "All10 crops and boundaries reviewed; master only in book; blank padding excluded"
   }
 ]
