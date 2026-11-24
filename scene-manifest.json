@@ -5119,5 +5119,346 @@
       554
     ],
     "review_status": "All7 actual panel crops reviewed; book illustration separated from actual samurai, hood and hiding state preserved, padding excluded"
+  },
+  {
+    "id": "scene-0242",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      1
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The children crouch behind the rock as samurai search nearby.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0242.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      5,
+      6,
+      380,
+      251
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0243",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      2,
+      3
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The warrior searches while Jack presses against the rock.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0243.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      391,
+      5,
+      763,
+      251
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0244",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      4,
+      5
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie whispers to Jack to be nature.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0244.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      775,
+      5,
+      1146,
+      251
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0245",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      6
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack quietly asks what she means.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0245.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1157,
+      3,
+      1533,
+      251
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0246",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      7
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie tells Jack to be like the rock.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0246.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      5,
+      261,
+      380,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0247",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      8
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack closes his eyes and tries to remain still.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0247.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      391,
+      261,
+      763,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0248",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      9
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack stays as motionless and quiet as the rock.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0248.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      775,
+      261,
+      1146,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0249",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      10
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack feels safe while remaining still.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0249.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1157,
+      261,
+      1533,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0250",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      11,
+      12
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie announces that the warriors have left.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0250.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      3,
+      516,
+      380,
+      762
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0251",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      13
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack looks over the rock and sees no warriors or torches.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0251.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      391,
+      516,
+      763,
+      762
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0252",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      14,
+      15
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The children prepare to move on with renewed confidence.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0252.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      775,
+      516,
+      1146,
+      762
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0253",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      16
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack chooses the eastward direction.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0253.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1157,
+      516,
+      1533,
+      762
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0254",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The children descend to the icy stream.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0254.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      2,
+      771,
+      380,
+      1020
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0255",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie cannot see the tree house across the wild water.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0255.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      391,
+      771,
+      763,
+      1020
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0256",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack searches the far grove of flowering trees.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0256.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      775,
+      771,
+      1146,
+      1020
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
+  },
+  {
+    "id": "scene-0257",
+    "chapter": 8,
+    "part_id": "B05_Chapter_08_Part_01",
+    "source_paragraphs": [
+      21
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack says they must cross before finding the tree house.",
+    "semantic_review": "Chapter8 original and hood/wet/mouse-state plan reviewed before generation",
+    "asset": "assets/scene-0257.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1157,
+      771,
+      1533,
+      1020
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
   }
 ]

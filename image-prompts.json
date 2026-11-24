@@ -176,5 +176,16 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-07",
     "review": "All7 actual panel crops reviewed; book illustration separated from actual samurai, hood and hiding state preserved, padding excluded"
+  },
+  {
+    "start_scene": 242,
+    "scene_count": 16,
+    "prompt": "ONE landscape exact4x4 grid16 equalpanels straightWHITEgutters native highquality warm roundedpolished webtoon exactrefs. Jack redLONGSLEEVEhoodie HOODUP brownhair ROUNDglasses jeans brownshoes tanbackpack. Annie lavenderLONGSLEEVEhoodie HOODUP blondefringe shorts redshoes NO backpack ONEtinybrownwhite mouse inpouch. ALL16 hoodsUP clothesdry. NightJapan moonlit boulder rocky slope→icy wide stream whiteflower grove farbank. Samurai only cells1/2 distantbrownarmor two sheathedswords noattack.16rowmajor:1 children crouch hidden behind giantrock samurai silhouettes beyond bothsides;2 armoredwarrior searching rightleft otherSIDErock unawarekids;3 close Jack holdsbreath Annie whispers;4 Jack whispers questioning;5 Annie quietly suggests beingrock;6 Jack CLOSESeyes pressesbody againstrock normalhuman NO transformation;7 still Jack eyesclosed Annie still;8 Jack calm secure eyesclosed againstrock;9 Annie whispers allgone mouse squeaks;10 Jack opens eyes stands peersoverrock EMPTY mountain no torches warriors;11 children ready move nowconfident;12 Jack points EAST no textarrow;13 both walkdownrockymountain toward wideSTREAM;14 Annie sees ragingstream cannotfindtreehouse;15 Jack scans farbank whiteBLOSSOMgrove no treehousevisible;16 children discusscrossing fromnearbank. No ninja master Morgan. Each paneldistinct normalanatomy no new props. Coldnight facesreadable.\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-08",
+    "review": "All16 actual gutter crops reviewed; hidden children, no rock transformation, hoods remain up"
   }
 ]
