@@ -165,5 +165,16 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-07",
     "review": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "start_scene": 235,
+    "scene_count": 7,
+    "prompt": "undefined\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-07",
+    "review": "All7 actual panel crops reviewed; book illustration separated from actual samurai, hood and hiding state preserved, padding excluded"
   }
 ]

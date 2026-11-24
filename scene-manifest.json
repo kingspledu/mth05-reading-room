@@ -4968,5 +4968,156 @@
       1019
     ],
     "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0235",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      20,
+      21
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie hushes Peanut while Jack takes out the ninja book.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0235.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      2,
+      4,
+      381,
+      290
+    ],
+    "review_status": "All7 actual panel crops reviewed; book illustration separated from actual samurai, hood and hiding state preserved, padding excluded"
+  },
+  {
+    "id": "scene-0236",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack finds a picture of bamboo-armored warriors.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0236.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      391,
+      4,
+      764,
+      290
+    ],
+    "review_status": "All7 actual panel crops reviewed; book illustration separated from actual samurai, hood and hiding state preserved, padding excluded"
+  },
+  {
+    "id": "scene-0237",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      24
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack reads about the samurai and their two swords.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0237.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      773,
+      4,
+      1148,
+      290
+    ],
+    "review_status": "All7 actual panel crops reviewed; book illustration separated from actual samurai, hood and hiding state preserved, padding excluded"
+  },
+  {
+    "id": "scene-0238",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      25,
+      26
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie taps Jack on the shoulder.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0238.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      1158,
+      4,
+      1533,
+      290
+    ],
+    "review_status": "All7 actual panel crops reviewed; book illustration separated from actual samurai, hood and hiding state preserved, padding excluded"
+  },
+  {
+    "id": "scene-0239",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      27,
+      28
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie points uphill at an approaching figure.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0239.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      2,
+      300,
+      381,
+      554
+    ],
+    "review_status": "All7 actual panel crops reviewed; book illustration separated from actual samurai, hood and hiding state preserved, padding excluded"
+  },
+  {
+    "id": "scene-0240",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      29
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Moonlight glints on the warrior’s bamboo armor and swords.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0240.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      391,
+      300,
+      764,
+      554
+    ],
+    "review_status": "All7 actual panel crops reviewed; book illustration separated from actual samurai, hood and hiding state preserved, padding excluded"
+  },
+  {
+    "id": "scene-0241",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      30
+    ],
+    "sentence_markers": 1,
+    "status": "integrated",
+    "description": "A samurai warrior approaches the hiding place.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0241.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      774,
+      300,
+      1148,
+      554
+    ],
+    "review_status": "All7 actual panel crops reviewed; book illustration separated from actual samurai, hood and hiding state preserved, padding excluded"
   }
 ]
