@@ -2213,5 +2213,347 @@
       1016
     ],
     "review_status": "All16 actual gutter crops and contact sheet visually reviewed; note transfer and floor ladder checked"
+  },
+  {
+    "id": "scene-0106",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "The tall ninja descends quickly after the short ninja.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0106.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      5,
+      4,
+      379,
+      256
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0107",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      24
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie watches the descent in amazement.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0107.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      392,
+      4,
+      762,
+      256
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0108",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      25
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack searches again for the Pennsylvania book.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0108.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      775,
+      5,
+      1144,
+      256
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0109",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      26,
+      27
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Annie and Jack disagree about following the ninjas.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0109.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      1159,
+      5,
+      1530,
+      256
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0110",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      28
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie hopes the ninjas know about Morgan.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0110.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      5,
+      267,
+      379,
+      507
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0111",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      29,
+      30
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie begins descending the rope ladder.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0111.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      393,
+      267,
+      761,
+      507
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0112",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_01",
+    "source_paragraphs": [
+      31,
+      32
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack sighs alone in the tree house.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0112.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      775,
+      267,
+      1144,
+      507
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0113",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      1
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie calls to Jack from below.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0113.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1159,
+      267,
+      1529,
+      507
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0114",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      2
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack packs his notebook and ninja book before descending.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0114.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      5,
+      518,
+      379,
+      754
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0115",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      3,
+      4
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack joins Annie and both ninjas beneath the flowering tree.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0115.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      393,
+      518,
+      761,
+      754
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0116",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie reassures Peanut in her sweatshirt pouch.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0116.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      775,
+      518,
+      1144,
+      754
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0117",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      7
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack wonders who will look after them.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0117.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1159,
+      518,
+      1530,
+      754
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0118",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      8
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The short ninja leads both children by their arms while the tall ninja follows.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0118.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      5,
+      766,
+      379,
+      1020
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0119",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      9
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack asks where they are going.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0119.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      393,
+      766,
+      761,
+      1020
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0120",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      10
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The group stops beside the rushing stream.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0120.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      775,
+      766,
+      1144,
+      1020
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
+  },
+  {
+    "id": "scene-0121",
+    "chapter": 4,
+    "part_id": "B05_Chapter_04_Part_02",
+    "source_paragraphs": [
+      11
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The short ninja lets go and directs the children toward the stream.",
+    "semantic_review": "Chapter4 original two parts and continuity page reviewed before generation",
+    "asset": "assets/scene-0121.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1159,
+      766,
+      1530,
+      1020
+    ],
+    "review_status": "All16 crops reviewed against actual gutters; floor hatch, packed books, cast and arm ownership checked"
   }
 ]
