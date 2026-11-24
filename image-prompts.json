@@ -209,5 +209,16 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-08",
     "review": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
+  },
+  {
+    "start_scene": 282,
+    "scene_count": 16,
+    "prompt": "ONE landscape crisp highnativequality EXACT4x4 grid16 equalpanels straightWHITEgutters. Absolutely NO numbers captions speech lettering. Warm polishedrounded webtoon exactrefchildren. Jack RED LONGSLEEVEhoodie HOODDOWN wetbrownhair ROUNDglasses WETjeans brownsneakers tanbackpack, visible drops. Annie LAVENDER LONGSLEEVEhoodie HOODDOWN dryblondebob dryupperclothes denimshorts redsneakers NO backpack EMPTYpouch allpanels. Mouse already on FARbank grass ONLYcell1 tinybrownwhite disappears, no mouse anyothercell. NightJapan moonlit narrowrushingstream and THIN natural fallenbranch touching bothshores. NO builtbridge planks railings. NO ninjas master samurai.16rowmajor:1 children nearbank stare slenderbranch while tiny mouse vanishes FARbankgrass;2 Annie suggests crossing;3 Jack objects worried pointingthinbranch;4 Annie proposes pretending mice Jack skeptical;5 Annie gestures smalllightfast no transformations;6 Jack deepbreath Annie insists;7 Jack agrees Annie encourages;8 Jack exasperated reacts;9 Annie urges him;10 Jack sighs prepares squeak NO text;11 both children humorously squeak mouths open NO speechbubbles;12 Annie ready urges hurry;13 Jack steps onto branch then DARTS across arms balancing, Annie stillnearbank;14 Jack quickly traverses thinbranch overstream approaching farshore, NOT swimming;15 bothchildren on FARbank Annie just arrives behindJack no duplicatechildren;16 children laugh collapse safely ongrass farbank thinbranch intact behind. Keep Jackwet Anniedry exceptdampshoes, hoodsDOWN ALL16, no shrinking to mice. Maintain readableanatomy normalchildscale.\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-09",
+    "review": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
   }
 ]

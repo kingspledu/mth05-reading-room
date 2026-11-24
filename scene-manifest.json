@@ -5972,5 +5972,317 @@
       522
     ],
     "review_status": "All8 crops reviewed; hoods down, empty pouch, one mouse on natural branch; children remain on bank; padding excluded"
+  },
+  {
+    "id": "scene-0282",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0282.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      2,
+      3,
+      379,
+      250
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0283",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      3
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0283.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      392,
+      3,
+      763,
+      250
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0284",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      4
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0284.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      776,
+      3,
+      1146,
+      250
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0285",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0285.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1159,
+      5,
+      1534,
+      250
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0286",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      7
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0286.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      4,
+      262,
+      379,
+      505
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0287",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0287.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      393,
+      262,
+      763,
+      505
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0288",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0288.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      776,
+      262,
+      1146,
+      505
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0289",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      12
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0289.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1160,
+      262,
+      1534,
+      505
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0290",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      13
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0290.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      5,
+      517,
+      379,
+      757
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0291",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      14
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0291.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      393,
+      517,
+      763,
+      757
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0292",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0292.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      776,
+      517,
+      1147,
+      757
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0293",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0293.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1160,
+      517,
+      1532,
+      757
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0294",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0294.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      4,
+      769,
+      379,
+      1020
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0295",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      20,
+      21
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0295.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      393,
+      769,
+      764,
+      1020
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0296",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      22
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0296.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      776,
+      769,
+      1147,
+      1020
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
+  },
+  {
+    "id": "scene-0297",
+    "chapter": 9,
+    "part_id": "B05_Chapter_09_Part_01",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0297.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1160,
+      769,
+      1533,
+      1020
+    ],
+    "review_status": "All16 crops and actual gutters reviewed; branch crossing order, empty pouch and wet Jack checked"
   }
 ]
