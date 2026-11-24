@@ -4623,5 +4623,350 @@
       1015
     ],
     "review_status": "All16 actual gutter crops reviewed; Annie then Jack hood-up order and child identities checked"
+  },
+  {
+    "id": "scene-0219",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      25
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack remembers that they need a stick.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0219.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      2,
+      5,
+      378,
+      251
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0220",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      26
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie picks up a stick.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0220.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      392,
+      5,
+      762,
+      251
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0221",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      27,
+      28
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The children find a moonlit clearing.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0221.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      776,
+      3,
+      1146,
+      251
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0222",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_01",
+    "source_paragraphs": [
+      29,
+      30
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack directs Annie to plant the stick in the ground.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0222.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      1159,
+      3,
+      1531,
+      251
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0223",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Annie plants the stick and Jack examines its shadow.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0223.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      4,
+      263,
+      378,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0224",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      3,
+      4
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack interprets the long shadow as pointing east.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0224.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      392,
+      263,
+      762,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0225",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "Jack points in the new direction.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0225.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      776,
+      263,
+      1146,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0226",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      7
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie calls them real ninjas.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0226.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      1159,
+      263,
+      1530,
+      506
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0227",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      8
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack agrees and suggests moving on.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0227.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      6,
+      518,
+      378,
+      762
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0228",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      9,
+      10
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "description": "They leave the pine woods and rest beside a giant rock.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0228.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      392,
+      518,
+      762,
+      762
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0229",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      11,
+      12
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie plants another stick to check direction.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0229.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      776,
+      518,
+      1146,
+      762
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0230",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      13
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack points along the new shadow.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0230.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      1159,
+      518,
+      1530,
+      762
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0231",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      14,
+      15
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie peers downhill over the rock.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0231.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      6,
+      773,
+      378,
+      1018
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0232",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      16
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Jack looks downhill and becomes frightened.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0232.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      392,
+      773,
+      762,
+      1018
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0233",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Torch flames approach up the mountain.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0233.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      776,
+      773,
+      1146,
+      1020
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
+  },
+  {
+    "id": "scene-0234",
+    "chapter": 7,
+    "part_id": "B05_Chapter_07_Part_02",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The children duck behind the rock as Peanut squeaks.",
+    "semantic_review": "Chapter7 original two parts and hood-state continuity plan reviewed before generation",
+    "asset": "assets/scene-0234.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      1159,
+      773,
+      1532,
+      1019
+    ],
+    "review_status": "All16 actual gutter crops reviewed; hoods up, stick shadows and boulder hiding positions checked"
   }
 ]
