@@ -132,5 +132,16 @@
     ],
     "continuity_plan": "chapter-consistency.html#chapter-06",
     "review": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "start_scene": 194,
+    "scene_count": 9,
+    "prompt": "undefined\n",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "continuity_plan": "chapter-consistency.html#chapter-06",
+    "review": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
   }
 ]

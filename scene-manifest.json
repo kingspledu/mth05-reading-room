@@ -4088,5 +4088,196 @@
       1080
     ],
     "review_status": "All16 crops reviewed; note handoff and nighttime entrance corrected; sword acquired only scene185 onward"
+  },
+  {
+    "id": "scene-0194",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      42,
+      43
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The master asks them to remember three things.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0194.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      5,
+      6,
+      378,
+      251
+    ],
+    "review_status": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
+  },
+  {
+    "id": "scene-0195",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      44
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The master explains using, being and following nature.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0195.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      392,
+      6,
+      762,
+      251
+    ],
+    "review_status": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
+  },
+  {
+    "id": "scene-0196",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      45
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "Annie responds confidently.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0196.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      775,
+      6,
+      1146,
+      251
+    ],
+    "review_status": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
+  },
+  {
+    "id": "scene-0197",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      46
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack questions Annie in surprise.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0197.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1160,
+      6,
+      1530,
+      251
+    ],
+    "review_status": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
+  },
+  {
+    "id": "scene-0198",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      47
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The master directs Jack toward the east.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0198.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      5,
+      263,
+      378,
+      505
+    ],
+    "review_status": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
+  },
+  {
+    "id": "scene-0199",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      48
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "Jack wonders how to find east.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0199.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      392,
+      263,
+      761,
+      505
+    ],
+    "review_status": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
+  },
+  {
+    "id": "scene-0200",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      49
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "description": "The master bows and steps into the shadows.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0200.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      776,
+      263,
+      1146,
+      505
+    ],
+    "review_status": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
+  },
+  {
+    "id": "scene-0201",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      50,
+      51
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "description": "The two ninjas guide the children outside and point toward the forest.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0201.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1160,
+      263,
+      1530,
+      505
+    ],
+    "review_status": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
+  },
+  {
+    "id": "scene-0202",
+    "chapter": 6,
+    "part_id": "B05_Chapter_06_Part_01",
+    "source_paragraphs": [
+      52
+    ],
+    "sentence_markers": 1,
+    "status": "integrated",
+    "description": "Jack and Annie remain alone.",
+    "semantic_review": "Chapter6 original text and continuity plan read before generation",
+    "asset": "assets/scene-0202.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      5,
+      519,
+      378,
+      762
+    ],
+    "review_status": "All9 tile crops and actual gutters reviewed; master sword retained, final children alone, padding excluded"
   }
 ]
